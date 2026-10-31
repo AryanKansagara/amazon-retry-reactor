@@ -1,0 +1,9 @@
+{
+  "company": "Amazon",
+  "title": "Retry Reactor",
+  "test_command": "make test",
+  "demo_command": "make demo",
+  "scope": "C++ deterministic three-layer retry/deadline simulator; no AWS integration",
+  "implemented": true,
+  "integration_status": "unverified"
+}
